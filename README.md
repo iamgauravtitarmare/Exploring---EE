@@ -1,2 +1,2 @@
-# Exploring---EE
-A tool that can auto-generate short quizzes on the basis of the content provided.
+# Exploring-EE
+A man who was comming to explore and learn about Electrical Engineering.
